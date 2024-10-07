@@ -120,7 +120,7 @@
 			"compiler" : 
 			{
 				"implicit" : {},
-				"path" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/windres.exe"
+				"path" : "C:/FACULTAD/CLion 2024.2.2/bin/mingw/bin/windres.exe"
 			},
 			"language" : "RC",
 			"sourceFileExtensions" : 

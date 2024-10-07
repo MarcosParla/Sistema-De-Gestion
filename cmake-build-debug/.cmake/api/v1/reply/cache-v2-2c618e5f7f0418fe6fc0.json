@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/WinByLato/Desktop/Sistema-De-Gestion/cmake-build-debug"
+			"value" : "c:/FACULTAD/PROYECTOS/Sistema-De-Gestion/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/cmake/win/x64/bin/cmake.exe"
+			"value" : "C:/FACULTAD/CLion 2024.2.2/bin/cmake/win/x64/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/cmake/win/x64/bin/cpack.exe"
+			"value" : "C:/FACULTAD/CLion 2024.2.2/bin/cmake/win/x64/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/cmake/win/x64/bin/ctest.exe"
+			"value" : "C:/FACULTAD/CLion 2024.2.2/bin/cmake/win/x64/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/WinByLato/Desktop/Sistema-De-Gestion/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/FACULTAD/PROYECTOS/Sistema-De-Gestion/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/WinByLato/Desktop/Sistema-De-Gestion"
+			"value" : "C:/FACULTAD/PROYECTOS/Sistema-De-Gestion"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/windres.exe"
+			"value" : "C:/FACULTAD/CLion 2024.2.2/bin/mingw/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1011,7 +1011,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29"
+			"value" : "C:/FACULTAD/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/WinByLato/Desktop/Sistema-De-Gestion/cmake-build-debug"
+			"value" : "C:/FACULTAD/PROYECTOS/Sistema-De-Gestion/cmake-build-debug"
 		},
 		{
 			"name" : "Sistema_De_Gestion_IS_TOP_LEVEL",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/WinByLato/Desktop/Sistema-De-Gestion"
+			"value" : "C:/FACULTAD/PROYECTOS/Sistema-De-Gestion"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
