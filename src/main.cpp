@@ -4,7 +4,6 @@ using namespace std;
 
 
 int main() {
-    cout<< "Hello World!" << endl;
-    string lato = "Hola soy lato";
+    cout<< "Bienvenido chicos al commit de inicio";
     return 0;
 }
